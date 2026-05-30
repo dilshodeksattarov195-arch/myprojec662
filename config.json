@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenponnect",
+        "uuid": 197276,
+        "checksum": "eceqp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
